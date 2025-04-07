@@ -8,14 +8,6 @@ Mahasiswa Teknik Informatika di Universitas Buana Perjuangan Karawang dengan kea
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### GitHub Statistic  
-<p align="left">
-  <a href="https://github.com/faisalProject">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faisalProject&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalProject&layout=compact&theme=algolia"/>
-  </a>
-</p>
-
 ### Most Used Languages  
 <p align="left">
   <a href="https://github.com/faisalProject">
